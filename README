@@ -1,0 +1,23 @@
+===
+SLICLoader Installer - Installs SLICLoader
+===
+
+==Building==
+
+This is meant to be built on a 64-bit Windows operating system using MinGW.
+Simply run `make` to build. There should be no dependencies.
+
+NOTE: In order to function, various values in the header file need to be
+filled out.
+
+
+==Disclaimer==
+
+This program is for EDUCATIONAL PURPOSES ONLY. It serves to
+demonstrate how UEFI applications are developed, how ACPI
+tables can be created and modified, and how operating systems can
+determine their OEM's information. The author is not responsible
+for how the end-user utilizes this program. The author does not
+condone software piracy or methods of circumventing digital
+rights management systems. Use this software at your own risk.
+
